@@ -8,10 +8,6 @@
 <!-- default file list end -->
 
 # How to Implement Custom Summary
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1877/)**
-<!-- run online end -->
-
 
 This example demonstrates different approaches to calculate a custom summary.
 
