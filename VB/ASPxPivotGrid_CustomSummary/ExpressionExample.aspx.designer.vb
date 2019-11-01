@@ -10,7 +10,7 @@
 Namespace ASPxPivotGrid_CustomSummary
 
 
-	Partial Public Class [Default]
+	Partial Public Class CustomSummaryExpressionExample
 
 		''' <summary>
 		''' form1 control.
@@ -22,30 +22,39 @@ Namespace ASPxPivotGrid_CustomSummary
 		Protected form1 As Global.System.Web.UI.HtmlControls.HtmlForm
 
 		''' <summary>
-		''' ASPxButton1 control.
+		''' ASPxPivotGrid1 control.
 		''' </summary>
 		''' <remarks>
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxButton1 As Global.DevExpress.Web.ASPxButton
+		Protected ASPxPivotGrid1 As Global.DevExpress.Web.ASPxPivotGrid.ASPxPivotGrid
 
 		''' <summary>
-		''' ASPxButton2 control.
+		''' fieldProductName control.
 		''' </summary>
 		''' <remarks>
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxButton2 As Global.DevExpress.Web.ASPxButton
+		Protected fieldProductName As Global.DevExpress.Web.ASPxPivotGrid.PivotGridField
 
 		''' <summary>
-		''' ASPxButton3 control.
+		''' fieldExtendedPriceNew control.
 		''' </summary>
 		''' <remarks>
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxButton3 As Global.DevExpress.Web.ASPxButton
+		Protected fieldExtendedPriceNew As Global.DevExpress.Web.ASPxPivotGrid.PivotGridField
+
+		''' <summary>
+		''' AccessDataSource1 control.
+		''' </summary>
+		''' <remarks>
+		''' Auto-generated field.
+		''' To modify move field declaration from designer file to code-behind file.
+		''' </remarks>
+		Protected AccessDataSource1 As Global.System.Web.UI.WebControls.AccessDataSource
 	End Class
 End Namespace

@@ -10,7 +10,7 @@
 namespace ASPxPivotGrid_CustomSummary {
     
     
-    public partial class Default {
+    public partial class CustomSummaryEventExample {
         
         /// <summary>
         /// form1 control.
@@ -22,30 +22,39 @@ namespace ASPxPivotGrid_CustomSummary {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// ASPxButton1 control.
+        /// ASPxPivotGrid1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxButton ASPxButton1;
+        protected global::DevExpress.Web.ASPxPivotGrid.ASPxPivotGrid ASPxPivotGrid1;
         
         /// <summary>
-        /// ASPxButton2 control.
+        /// fieldProductName control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxButton ASPxButton2;
+        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField fieldProductName;
         
         /// <summary>
-        /// ASPxButton3 control.
+        /// fieldExtendedPrice control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxButton ASPxButton3;
+        protected global::DevExpress.Web.ASPxPivotGrid.PivotGridField fieldExtendedPrice;
+        
+        /// <summary>
+        /// AccessDataSource1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.AccessDataSource AccessDataSource1;
     }
 }
