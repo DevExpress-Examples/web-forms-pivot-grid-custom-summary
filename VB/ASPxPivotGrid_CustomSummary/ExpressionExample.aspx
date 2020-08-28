@@ -1,7 +1,7 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="true" CodeBehind="ExpressionExample.aspx.vb"
 	Inherits="ASPxPivotGrid_CustomSummary.CustomSummaryExpressionExample" %>
 
-<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v19.2, Version=19.2.3.0,
+<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v19.2, Version=19.2.9.0,
 	Culture=neutral, PublicKeyToken=b88d1754d700e49a"
 	Namespace="DevExpress.Web.ASPxPivotGrid"
 	TagPrefix="dx" %>
