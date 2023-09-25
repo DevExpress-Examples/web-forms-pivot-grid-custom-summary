@@ -3,16 +3,8 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1877)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
 
-* [EventExample.aspx](./CS/ASPxPivotGrid_CustomSummary/EventExample.aspx) (VB: [EventExample.aspx](./VB/ASPxPivotGrid_CustomSummary/EventExample.aspx))
-* [EventExample.aspx.cs](./CS/ASPxPivotGrid_CustomSummary/EventExample.aspx.cs) (VB: [EventExample.aspx.vb](./VB/ASPxPivotGrid_CustomSummary/EventExample.aspx.vb))
-* [ExpressionExample.aspx](./CS/ASPxPivotGrid_CustomSummary/ExpressionExample.aspx) (VB: [ExpressionExample.aspx](./VB/ASPxPivotGrid_CustomSummary/ExpressionExample.aspx))
-* [DataBindingApiExample.aspx](./CS/ASPxPivotGrid_CustomSummary/DataBindingApiExample.aspx) (VB: [DataBindingApiExample.aspx](./VB/ASPxPivotGrid_CustomSummary/DataBindingApiExample.aspx))
-<!-- default file list end -->
-
-# How to Implement Custom Summary
+# Pivot Grid for WebForms - How to Implement Custom Summary
 
 This example demonstrates different approaches to calculate a custom summary.
 
@@ -37,3 +29,16 @@ ToDecimal(Sum(iif([Extended_Price]>=500,1,0)))/Count()
 The resulting Pivot Grid is shown below:
 
 ![](/images/screenshot.png)
+
+## Files to Review
+
+* [EventExample.aspx](./CS/ASPxPivotGrid_CustomSummary/EventExample.aspx) (VB: [EventExample.aspx](./VB/ASPxPivotGrid_CustomSummary/EventExample.aspx))
+* [EventExample.aspx.cs](./CS/ASPxPivotGrid_CustomSummary/EventExample.aspx.cs) (VB: [EventExample.aspx.vb](./VB/ASPxPivotGrid_CustomSummary/EventExample.aspx.vb))
+* [ExpressionExample.aspx](./CS/ASPxPivotGrid_CustomSummary/ExpressionExample.aspx) (VB: [ExpressionExample.aspx](./VB/ASPxPivotGrid_CustomSummary/ExpressionExample.aspx))
+* [DataBindingApiExample.aspx](./CS/ASPxPivotGrid_CustomSummary/DataBindingApiExample.aspx) (VB: [DataBindingApiExample.aspx](./VB/ASPxPivotGrid_CustomSummary/DataBindingApiExample.aspx))
+
+## Documentation
+
+- [Bind Pivot Grid Fields to Data Columns](https://docs.devexpress.com/AspNet/403969/components/pivot-grid/binding-to-data/bind-pivot-grid-fields-to-data-source-columns)
+- [Bind Pivot Grid Fields to Calculated Expressions](https://docs.devexpress.com/AspNet/7259/components/pivot-grid/binding-to-data/bind-pivot-grid-field-to-calculated-expression)
+- [Bind Pivot Grid Fields to Window Calculations](https://docs.devexpress.com/AspNet/403970/components/pivot-grid/binding-to-data/bind-pivot-grid-fields-to-window-calculations)
