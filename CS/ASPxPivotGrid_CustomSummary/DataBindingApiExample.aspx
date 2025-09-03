@@ -1,7 +1,7 @@
 <%@ Page Language="C#" AutoEventWireup="true" CodeBehind="DataBindingApiExample.aspx.cs"
     Inherits="ASPxPivotGrid_CustomSummary.DataBindingApiExample" %>
 
-<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v24.2, Version=24.2.8.0,
+<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v24.2, Version=24.2.10.0,
     Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web.ASPxPivotGrid"
     TagPrefix="dx" %>
