@@ -44,7 +44,7 @@ The resulting Pivot Grid is shown below:
 - [Bind Pivot Grid Fields to Calculated Expressions](https://docs.devexpress.com/AspNet/7259/components/pivot-grid/binding-to-data/bind-pivot-grid-field-to-calculated-expression)
 - [Bind Pivot Grid Fields to Window Calculations](https://docs.devexpress.com/AspNet/403970/components/pivot-grid/binding-to-data/bind-pivot-grid-fields-to-window-calculations)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=web-forms-pivot-grid-custom-summary&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=web-forms-pivot-grid-custom-summary&~~~was_helpful=no)
 
